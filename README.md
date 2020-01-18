@@ -1,8 +1,7 @@
 # Play Chrome hidden Dinosaur game with smiling
 
 [//]: # (References)
-[no-smile]: ./imgs/screenshot-0.jpeg
-[smile]: ./imgs/screenshot-1.jpeg
+[smile]: ./imgs/screenshot-0.jpeg
 [opencv]: https://opencv.org/
 [installation]: #installation-of-opencv
 [haar-like-features]: https://www.quora.com/How-can-I-understand-Haar-like-feature-for-face-detection
