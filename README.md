@@ -10,11 +10,6 @@
 
 ---
 
-## Detection of faces, eyes, and smiles
-This project uses [Haar-like features][haar-like-features] to detect faces, eyes, and smiles. It is done in Python 3.6 and uses the open source computer vision library [OpenCV][opencv]. To install OpenCV for Python please follow the [installation process below][installation].
-
-By executing the script the internal webcam gets started and draws blue rectangles around faces, green rectangles around eyes and red rectangles around smiling mouths in the webcam video stream.
-
 Face and eyes detection only       |  Face, eyes and smile detection
 :---------------------------------:|:---------------------------------:
 ![no-smile][no-smile]              | ![smile][smile]
