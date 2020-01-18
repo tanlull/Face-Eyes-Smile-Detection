@@ -9,12 +9,11 @@
 [win-open-cv-wheel]: https://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv
 
 ---
+      
+:---------------------------------:
+![smile][smile]
 
-Face and eyes detection only       |  Face, eyes and smile detection
-:---------------------------------:|:---------------------------------:
-![no-smile][no-smile]              | ![smile][smile]
-
-## Installation of OpenCV , pyautogui
+## Install : OpenCV and  pyautogui
 To install the OpenCV library for Python execute the following line in a terminal/command window:
 ```sh
 pip install -r requirements.txt
